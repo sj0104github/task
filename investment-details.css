@@ -1,0 +1,3178 @@
+.investment-details-container {
+  min-height: 100vh;
+}
+.investment-details-investment-details {
+  width: 100%;
+  height: 4417px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.investment-details-footer-links {
+  top: 4320px;
+  left: 108px;
+  width: 645.93359375px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.40;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text002 {
+  left: 82.984375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.40;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text004 {
+  left: 211.96484375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.40;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text006 {
+  left: 350.94921875px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.40;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text008 {
+  left: 511.93359375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.40;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-morefrom-project {
+  top: 3618px;
+  left: 58px;
+  width: 1334.26611328125px;
+  height: 597px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text010 {
+  top: 80px;
+  left: 36px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 44px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-group134 {
+  top: 116.484375px;
+  left: 438.109375px;
+  width: 27.48491859436035px;
+  height: 27.48491859436035px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-arrow2 {
+  top: -14.095703125px;
+  left: -11.98046875px;
+  width: 1px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-group135 {
+  top: 116.484375px;
+  left: 373.796875px;
+  width: 27.48491859436035px;
+  height: 27.48491859436035px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-ellipse21 {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-arrow21 {
+  top: -14.095703125px;
+  left: 11.98046875px;
+  width: 1px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-group178 {
+  top: 149.0224609375px;
+  left: 34.953125px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-n-f-t-card-bid {
+  top: 0px;
+  left: 0px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 16.628543853759766px;
+  background-color: rgba(18, 18, 18, 1);
+}
+.investment-details-group1 {
+  top: 212.0126953125px;
+  left: 64.4375px;
+  width: 130px;
+  height: 37.091796875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text012 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.471409797668457px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text014 {
+  top: 20.091796875px;
+  color: rgba(235, 235, 235, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.085697174072266px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-unsplash-fjv-x-ue-yf1a-a {
+  top: 212.0126953125px;
+  left: 14.55078125px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-unsplash3sf-g9m0gc-q {
+  top: 14.55064582824707px;
+  left: 14.551018714904785px;
+  width: 258px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-rectangle2 {
+  top: 271.7646789550781px;
+  left: 14.551018714904785px;
+  width: 258px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-group2 {
+  top: 287.0068359375px;
+  left: 32.5625px;
+  width: 90px;
+  height: 14px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text016 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle185 {
+  top: 279.3857421875px;
+  left: 183.60546875px;
+  width: 80px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 75.44562530517578px;
+}
+.investment-details-text018 {
+  top: 287.3330078125px;
+  left: 204.64453125px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-group179 {
+  top: 149.0224609375px;
+  left: 350.078125px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-n-f-t-card-bid1 {
+  top: 0px;
+  left: 0px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 16.628543853759766px;
+  background-color: rgba(18, 18, 18, 1);
+}
+.investment-details-group11 {
+  top: 212.0126953125px;
+  left: 64.43359375px;
+  width: 130px;
+  height: 37.091796875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text020 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.471409797668457px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text022 {
+  top: 20.091796875px;
+  color: rgba(235, 235, 235, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.085697174072266px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-unsplash-fjv-x-ue-yf1a-a1 {
+  top: 212.0126953125px;
+  left: 14.55078125px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-unsplash3sf-g9m0gc-q1 {
+  top: 14.55064582824707px;
+  left: 14.550806999206543px;
+  width: 258px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-rectangle21 {
+  top: 271.7646789550781px;
+  left: 14.550806999206543px;
+  width: 258px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-group21 {
+  top: 287.0068359375px;
+  left: 32.5625px;
+  width: 90px;
+  height: 14px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text024 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle1851 {
+  top: 279.3857421875px;
+  left: 183.60546875px;
+  width: 80px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 75.44562530517578px;
+}
+.investment-details-text026 {
+  top: 287.3330078125px;
+  left: 204.640625px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-group180 {
+  top: 149.0224609375px;
+  left: 665.203125px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-n-f-t-card-bid2 {
+  top: 0px;
+  left: 0px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 16.628543853759766px;
+  background-color: rgba(18, 18, 18, 1);
+}
+.investment-details-group12 {
+  top: 212.0126953125px;
+  left: 64.43359375px;
+  width: 130px;
+  height: 37.091796875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text028 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.471409797668457px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text030 {
+  top: 20.091796875px;
+  color: rgba(235, 235, 235, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.085697174072266px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-unsplash-fjv-x-ue-yf1a-a2 {
+  top: 212.0126953125px;
+  left: 14.55078125px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-unsplash3sf-g9m0gc-q2 {
+  top: 14.55078125px;
+  left: 14.55078125px;
+  width: 258px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-rectangle22 {
+  top: 271.7646484375px;
+  left: 14.55078125px;
+  width: 258px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-group22 {
+  top: 287.0068359375px;
+  left: 32.55859375px;
+  width: 90px;
+  height: 14px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text032 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle1852 {
+  top: 279.3857421875px;
+  left: 183.6015625px;
+  width: 80px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 75.44562530517578px;
+}
+.investment-details-text034 {
+  top: 287.3330078125px;
+  left: 204.640625px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-group181 {
+  top: 149.0224609375px;
+  left: 980.3359375px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-n-f-t-card-bid3 {
+  top: 0px;
+  left: 0px;
+  width: 286.9239807128906px;
+  height: 330.2486877441406px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 16.628543853759766px;
+  background-color: rgba(18, 18, 18, 1);
+}
+.investment-details-group13 {
+  top: 212.0126953125px;
+  left: 64.43359375px;
+  width: 130px;
+  height: 37.091796875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text036 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.471409797668457px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text038 {
+  top: 20.091796875px;
+  color: rgba(235, 235, 235, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.085697174072266px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-unsplash-fjv-x-ue-yf1a-a3 {
+  top: 212.0126953125px;
+  left: 14.55078125px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-unsplash3sf-g9m0gc-q3 {
+  top: 14.55078125px;
+  left: 14.55078125px;
+  width: 258px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-rectangle23 {
+  top: 271.7646484375px;
+  left: 14.55078125px;
+  width: 258px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.085697174072266px;
+}
+.investment-details-group23 {
+  top: 287.0068359375px;
+  left: 32.56640625px;
+  width: 90px;
+  height: 14px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text040 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle1853 {
+  top: 279.3857421875px;
+  left: 183.609375px;
+  width: 80px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 75.44562530517578px;
+}
+.investment-details-text042 {
+  top: 287.3330078125px;
+  left: 204.6484375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.699984550476074px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-rectangle222 {
+  top: 132px;
+  left: 1071.2734375px;
+  width: 263px;
+  height: 386px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-group86 {
+  top: 543px;
+  left: 558px;
+  width: 208px;
+  height: 54px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group85 {
+  top: 21px;
+  left: 55px;
+  width: 98px;
+  height: 12px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text044 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-line65 {
+  top: 0px;
+  left: 0px;
+  width: 1327px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-stay-connected {
+  top: 3034px;
+  left: 95px;
+  width: 1199px;
+  height: 515px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group4044 {
+  top: 105px;
+  left: 64px;
+  width: 1058px;
+  height: 342px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group4040 {
+  top: 0px;
+  left: 0px;
+  width: 342px;
+  height: 342px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 34, 34, 1);
+}
+.investment-details-group4020 {
+  top: 223px;
+  left: 64px;
+  width: 50px;
+  height: 37.5px;
+  display: flex;
+  opacity: 0.50;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-image14 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 37px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-rectangle159 {
+  top: -1.8564453125px;
+  left: 1.01953125px;
+  width: 48px;
+  height: 41px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-text046 {
+  top: 65px;
+  left: 64px;
+  color: var(--dl-color-default-white);
+  width: 122px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text047 {
+  font-weight: 400;
+}
+.investment-details-group4041 {
+  top: 0px;
+  left: 358px;
+  width: 342px;
+  height: 342px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(46, 46, 46, 1);
+}
+.investment-details-text049 {
+  top: 65px;
+  left: 61px;
+  color: var(--dl-color-default-white);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 400;
+  line-height: 115.99999666213989%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text050 {
+  font-weight: 400;
+}
+.investment-details-frame13 {
+  top: 223px;
+  left: 141px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.50;
+  position: absolute;
+}
+.investment-details-antdesigninstagramfilled {
+  top: 223px;
+  left: 221px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.50;
+  position: absolute;
+}
+.investment-details-frame {
+  top: 223px;
+  left: 61px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.investment-details-group {
+  top: 0px;
+  left: 9px;
+  width: 19.128549575805664px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-vector {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 36px;
+  position: absolute;
+}
+.investment-details-group4042 {
+  top: 0px;
+  left: 716px;
+  width: 342px;
+  height: 342px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 34, 34, 1);
+}
+.investment-details-text055 {
+  top: 65px;
+  left: 64px;
+  color: var(--dl-color-default-white);
+  width: 139px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 400;
+  line-height: 129.99999523162842%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text056 {
+  font-weight: 400;
+}
+.investment-details-frame1 {
+  top: 223px;
+  left: 64px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  opacity: 0.50;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.investment-details-group1 {
+  top: 7.5px;
+  left: 1.26171875px;
+  width: 37.90364456176758px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-vector01 {
+  top: 12.5px;
+  left: -1.7029899268550253e-8px;
+  width: 37px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-vector02 {
+  top: 0px;
+  left: 24.5703125px;
+  width: 13px;
+  height: 25px;
+  position: absolute;
+}
+.investment-details-line26 {
+  top: 59.5323486328125px;
+  left: 0px;
+  width: 1199px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-text061 {
+  top: 25.0380859375px;
+  left: 71.939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle268 {
+  top: 0px;
+  left: 1.998046875px;
+  width: 1197px;
+  height: 515px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-howto-buy {
+  top: 2450px;
+  left: 93px;
+  width: 1199px;
+  height: 515px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group4045 {
+  top: 78px;
+  left: 509px;
+  width: 624px;
+  height: 433px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-line60 {
+  top: 196px;
+  left: 0px;
+  width: 624px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-line61 {
+  top: 324px;
+  left: 0px;
+  width: 624px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-text063 {
+  left: 585.8262939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 18px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text064 {
+  top: 204px;
+  left: 585.8262939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 18px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text065 {
+  top: 343px;
+  left: 585.8262939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 18px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text066 {
+  top: 68px;
+  color: rgba(255, 255, 255, 1);
+  width: 489px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 144.0000057220459%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text068 {
+  top: 28px;
+  color: rgba(255, 255, 255, 1);
+  width: 469px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text070 {
+  top: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 479px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text072 {
+  top: 347px;
+  color: rgba(255, 255, 255, 1);
+  width: 479px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-line261 {
+  top: 59.5323486328125px;
+  left: 0px;
+  width: 1199px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-text074 {
+  top: 25.0380859375px;
+  left: 71.939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle2681 {
+  top: 0px;
+  left: 1.998046875px;
+  width: 1197px;
+  height: 515px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-rectangle269 {
+  top: 131px;
+  left: 70px;
+  width: 394px;
+  height: 312px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-termsof-purchase {
+  top: 1578px;
+  left: 93px;
+  width: 1199px;
+  height: 375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group40441 {
+  top: 60px;
+  left: 70px;
+  width: 1063px;
+  height: 294px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-line601 {
+  top: 186px;
+  left: 0px;
+  width: 1063px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-text076 {
+  left: 997.9694213867188px;
+  color: rgba(255, 255, 255, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text077 {
+  top: 204px;
+  left: 997.9694213867188px;
+  color: rgba(255, 255, 255, 1);
+  width: 31px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text078 {
+  top: 68px;
+  color: rgba(255, 255, 255, 1);
+  width: 833px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 144.0000057220459%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text080 {
+  top: 28px;
+  color: rgba(255, 255, 255, 1);
+  width: 466px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text082 {
+  top: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 817px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-line262 {
+  top: 59.5323486328125px;
+  left: 0px;
+  width: 1199px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-text084 {
+  top: 25.0380859375px;
+  left: 71.939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle2682 {
+  top: 0px;
+  left: 2px;
+  width: 1197px;
+  height: 375px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-termsof-purchase1 {
+  top: 2014px;
+  left: 93px;
+  width: 1199px;
+  height: 375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group40442 {
+  top: 60px;
+  left: 70px;
+  width: 1063px;
+  height: 294px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-line602 {
+  top: 186px;
+  left: 0px;
+  width: 1063px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-text086 {
+  left: 997.9694213867188px;
+  color: rgba(255, 255, 255, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text087 {
+  top: 204px;
+  left: 997.9694213867188px;
+  color: rgba(255, 255, 255, 1);
+  width: 31px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text088 {
+  top: 68px;
+  color: rgba(255, 255, 255, 1);
+  width: 833px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 144.0000057220459%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text090 {
+  top: 28px;
+  color: rgba(255, 255, 255, 1);
+  width: 466px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text092 {
+  top: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 817px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-line263 {
+  top: 59.5323486328125px;
+  left: 0px;
+  width: 1199px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-text094 {
+  top: 25.0380859375px;
+  left: 71.939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle2683 {
+  top: 0px;
+  left: 2px;
+  width: 1197px;
+  height: 375px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-benefits {
+  top: 1002px;
+  left: 93px;
+  width: 1199px;
+  height: 515px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group40443 {
+  top: 60px;
+  left: 70px;
+  width: 1063px;
+  height: 433px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-line603 {
+  top: 186px;
+  left: 0px;
+  width: 1063px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-line611 {
+  top: 314px;
+  left: 0px;
+  width: 1063px;
+  height: 0px;
+  position: absolute;
+}
+.investment-details-text096 {
+  left: 997.9694213867188px;
+  color: rgba(255, 255, 255, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text097 {
+  top: 204px;
+  left: 997.9694213867188px;
+  color: rgba(255, 255, 255, 1);
+  width: 31px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text098 {
+  top: 343px;
+  left: 997.9694213867188px;
+  color: rgba(255, 255, 255, 1);
+  width: 31px;
+  height: auto;
+  position: absolute;
+  font-size: 58px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text099 {
+  top: 68px;
+  color: rgba(255, 255, 255, 1);
+  width: 833px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 144.0000057220459%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text101 {
+  top: 28px;
+  color: rgba(255, 255, 255, 1);
+  width: 466px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text103 {
+  top: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 817px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text105 {
+  top: 347px;
+  color: rgba(255, 255, 255, 1);
+  width: 817px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-line264 {
+  top: 59.5323486328125px;
+  left: 0px;
+  width: 1199px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-text107 {
+  top: 25.0379638671875px;
+  left: 71.939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 933px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle2684 {
+  top: 0px;
+  left: 1.998046875px;
+  width: 1197px;
+  height: 515px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-purchase-details {
+  top: 445px;
+  left: 692px;
+  width: 600px;
+  height: 492px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group4054 {
+  top: 396px;
+  left: 36px;
+  width: 368px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-request-callback {
+  top: 0px;
+  left: 194px;
+  width: 174px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group163 {
+  top: 0px;
+  left: 0px;
+  width: 174px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 30, 30, 0.10999999940395355);
+}
+.investment-details-text109 {
+  top: 16px;
+  left: 22px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-buy-now {
+  top: 0px;
+  left: 0px;
+  width: 174px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group1631 {
+  top: 0px;
+  left: 0px;
+  width: 174px;
+  height: 56px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text111 {
+  top: 16px;
+  left: 53px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-agreeto-terms {
+  top: 358px;
+  left: 36px;
+  width: 457px;
+  height: 16px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text113 {
+  top: 2px;
+  left: 26px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle274 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 4px;
+}
+.investment-details-payment-options {
+  top: 212px;
+  left: 36px;
+  width: 323px;
+  height: 74px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-stripelogorevised20161 {
+  top: 26px;
+  left: 0px;
+  width: 107px;
+  height: 48px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.investment-details-pay-pal-selected {
+  top: 16px;
+  left: 162px;
+  width: 161px;
+  height: 58px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group4038 {
+  top: 10px;
+  left: 0px;
+  width: 149.14285278320312px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group1632 {
+  top: 0px;
+  left: 0px;
+  width: 149.14285278320312px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 30, 30, 0.09000000357627869);
+}
+.investment-details-paypal2014logo1 {
+  top: 18px;
+  left: 24px;
+  width: 101px;
+  height: 32px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.investment-details-ellipse281 {
+  top: 0px;
+  left: 137px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-check-f-i-l-l0wght400g-r-a-d0opsz481 {
+  top: 4px;
+  left: 141px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-text115 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-group4053 {
+  top: 81px;
+  left: 36px;
+  width: 343px;
+  height: 74px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group4032 {
+  top: 2px;
+  left: 237px;
+  width: 106px;
+  height: 72px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text117 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text119 {
+  top: 20px;
+  left: 7px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Zuume;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-group4033 {
+  top: 0px;
+  left: 0px;
+  width: 95px;
+  height: 72px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text121 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text123 {
+  top: 20px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Zuume;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-line265 {
+  top: 59px;
+  left: 0px;
+  width: 600px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-text125 {
+  top: 23px;
+  left: 36px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-rectangle2685 {
+  top: 0px;
+  left: 1px;
+  width: 599px;
+  height: 492px;
+  opacity: 0.50;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-n-f-t-project-details {
+  top: 546px;
+  left: 815px;
+  width: 600px;
+  height: 168.0000457763672px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-line24 {
+  top: 98px;
+  left: 0px;
+  width: 600px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-line25 {
+  top: 168px;
+  left: 0px;
+  width: 600px;
+  height: 0px;
+  opacity: 0.20;
+  position: absolute;
+}
+.investment-details-group138 {
+  top: 120px;
+  left: 300px;
+  width: 114px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text127 {
+  top: 5px;
+  left: 36px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-frame2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  opacity: 0.70;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.investment-details-group2 {
+  top: -0.0001736283302307129px;
+  left: 1px;
+  width: 22px;
+  height: 23.001018524169922px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-group3 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 23.001018524169922px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-vector03 {
+  top: 7.010556221008301px;
+  left: 0px;
+  width: 11px;
+  height: 16px;
+  position: absolute;
+}
+.investment-details-vector04 {
+  top: 7.041015625px;
+  left: 11px;
+  width: 11px;
+  height: 16px;
+  position: absolute;
+}
+.investment-details-vector05 {
+  top: 0px;
+  left: 4.5px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.investment-details-vector06 {
+  top: 5.920661926269531px;
+  left: 13px;
+  width: 3px;
+  height: 6px;
+  position: absolute;
+}
+.investment-details-vector07 {
+  top: 1.408203125px;
+  left: 15.296875px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
+.investment-details-vector08 {
+  top: 4.5009765625px;
+  left: 7px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.investment-details-vector09 {
+  top: 1.5009765625px;
+  left: 9.5px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.investment-details-group4047 {
+  top: 0px;
+  left: 1px;
+  width: 289px;
+  height: 82px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text129 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 46px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Zuume;
+  font-weight: 700;
+  line-height: 81.43695831298828px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text131 {
+  top: 0.44140625px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-group4036 {
+  top: 112.44140625px;
+  left: 138px;
+  width: 71px;
+  height: 33px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text133 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text135 {
+  top: 21px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-group4035 {
+  top: 112.44140625px;
+  left: 1px;
+  width: 46px;
+  height: 33px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-text137 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-text139 {
+  top: 21px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 500;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.investment-details-cover-image {
+  top: 193px;
+  left: 40px;
+  width: 534px;
+  height: 704px;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 13.561360359191895px;
+}
+.investment-details-group4061 {
+  top: 17px;
+  left: 17px;
+  width: 1489px;
+  height: 172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.investment-details-group14 {
+  top: 113.55810546875px;
+  left: 116.04296875px;
+  width: 61.05365753173828px;
+  height: 52.10262680053711px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-ip {
+  top: 2.6494619846343994px;
+  left: 0px;
+  width: 43px;
+  height: 49px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.investment-details-mask-group {
+  top: 0px;
+  left: 44.7890625px;
+  width: 16.26459503173828px;
+  height: 14.286469459533691px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-image6 {
+  top: -17.81298828125px;
+  left: 4.72265625px;
+  width: 33px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-group4018 {
+  top: 124px;
+  left: 1323px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-ellipse270 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+}
+.investment-details-group4017 {
+  top: 14px;
+  left: 14px;
+  width: 19.782909393310547px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.investment-details-vector10 {
+  top: 12.463598251342773px;
+  left: 0px;
+  width: 20px;
+  height: 8px;
+  position: absolute;
+}
+.investment-details-vector11 {
+  top: 0px;
+  left: 4.8203125px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.investment-details-ellipse272 {
+  top: 128px;
+  left: 1360px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-rectangle266 {
+  top: 0px;
+  left: 17px;
+  width: 1440px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+}
+.investment-details-frame11 {
+  top: 9px;
+  left: 0px;
+  width: 1489px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.investment-details-text141 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17.970060348510742px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 11px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-ellipse273 {
+  width: 4px;
+  height: 4px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 11px;
+}
+.investment-details-text143 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17.970060348510742px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 11px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-ellipse274 {
+  width: 4px;
+  height: 4px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 11px;
+}
+.investment-details-text145 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17.970060348510742px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 11px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-ellipse275 {
+  width: 4px;
+  height: 4px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 11px;
+}
+.investment-details-text147 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17.970060348510742px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 11px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.investment-details-ellipse276 {
+  width: 4px;
+  height: 4px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 11px;
+}
+.investment-details-text149 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17.970060348510742px;
+  align-self: auto;
+  font-style: Demi Bold;
+  text-align: left;
+  font-family: Visby CF;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
